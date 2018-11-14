@@ -1,0 +1,6 @@
+/Users/AlanGarcia/Projects/Arbolesss/Arbolesss/bin/Debug/Arbolesss.exe
+/Users/AlanGarcia/Projects/Arbolesss/Arbolesss/bin/Debug/Arbolesss.pdb
+/Users/AlanGarcia/Projects/Arbolesss/Arbolesss/obj/x86/Debug/Arbolesss.csprojAssemblyReference.cache
+/Users/AlanGarcia/Projects/Arbolesss/Arbolesss/obj/x86/Debug/Arbolesss.csproj.CoreCompileInputs.cache
+/Users/AlanGarcia/Projects/Arbolesss/Arbolesss/obj/x86/Debug/Arbolesss.exe
+/Users/AlanGarcia/Projects/Arbolesss/Arbolesss/obj/x86/Debug/Arbolesss.pdb

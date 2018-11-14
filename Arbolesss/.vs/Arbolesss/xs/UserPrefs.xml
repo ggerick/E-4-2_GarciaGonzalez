@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{26A7867E-6F1A-4037-BDB3-668A157B8512}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Arbolesss/Program.cs">
+    <Files>
+      <File FileName="Arbolesss/Program.cs" Line="5" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.Arbolesss PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
